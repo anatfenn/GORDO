@@ -1,0 +1,1 @@
+const Anat = 'UX';
