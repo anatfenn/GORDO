@@ -1,0 +1,1 @@
+const elad = "myPrince"
