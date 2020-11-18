@@ -1,1 +1,1 @@
-New file test
+const NewFileTest = 5
